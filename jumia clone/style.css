@@ -34,6 +34,7 @@
 a{
     border: 1px solid white;
     border-radius: 3px;
+    
 }
 input[type=text] { 
     width: 250px; 
